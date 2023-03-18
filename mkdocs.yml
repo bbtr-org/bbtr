@@ -1,0 +1,90 @@
+site_name: My Docs
+theme:
+  language: fr
+  name: material
+  # logo: assets/logo.png
+  # favicon: images/favicon.png
+  # If we add cookies, here's how to deal with cookie consent
+  # https://squidfunk.github.io/mkdocs-material/setup/ensuring-data-privacy/
+  features:
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - toc.follow
+  palette:
+
+    # red, pink, purple, deep purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue grey, black, white
+    # Palette toggle for dark mode
+    # Palette toggle for light mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/weather-night
+        name: Passer au mode sombre
+
+    - scheme: default
+      primary: deep orange
+      # accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au mode clair
+
+plugins:
+  - search
+  # A few things to setup in order to do this but it makes
+  # - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/foobar
+      name: "Rejoignez-nous sur Discord"
+
+  # If we setup this, add cookie consent
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+
+copyright: Copyright &copy; 2023 -  Les gens
+
+# https://squidfunk.github.io/mkdocs-material/setup/extensions/
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# https://squidfunk.github.io/mkdocs-material/reference/tooltips/#adding-a-glossary
