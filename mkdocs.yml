@@ -1,4 +1,7 @@
 site_name: My Docs
+site_url: !ENV [CF_PAGES_URL, "https://bbtr.fr/"]
+# site_description:
+# site_author:
 theme:
   language: fr
   name: material
@@ -37,8 +40,7 @@ theme:
 
 plugins:
   - search
-  # A few things to setup in order to do this but it makes
-  # - social
+  - social
 
 extra:
   social:

@@ -1,2 +1,6 @@
 mkdocs
 mkdocs-material
+
+# Social cards:
+pillow
+cairosvg
