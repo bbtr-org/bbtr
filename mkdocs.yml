@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: https://bttr.fr/
+site_url: !ENV [CF_PAGES_URL, "https://bbtr.fr/"]
 # site_description:
 # site_author:
 theme:
