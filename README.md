@@ -13,3 +13,25 @@ Relevant documentation:
 - [Cloudflare pages](https://developers.cloudflare.com/pages/)
     - In particular, if you submit a PR, you should get a link to a domain
       where you can preview your changes
+
+## Local dev
+
+```console
+(venv) $ pip install -r requirements.txt
+(venv) $ mkdocs serve
+(venv) $ # Build locally with:
+(venv) $ mkdocs build
+```
+
+## Deployment
+
+Everything is setup so that the site is uploaded when you merge the main branch.
+
+## Updating the dependencies
+
+Using `pip-compile` for package `pip-tools` (if you don't have it, `pipx` is a great
+option):
+```
+(venv) $ pip-compile --upgrade requirements.in
+```
+Commit the resulting `requirements.txt`
