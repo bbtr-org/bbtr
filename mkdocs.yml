@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: "BBTR : Organiser de supers tournois MtG"
 site_url: !ENV [CANONICAL_URL, CF_PAGES_URL, "https://bbtr.fr/"]
 # site_description:
 # site_author:
@@ -42,18 +42,18 @@ plugins:
   - search
   - social
 
-extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/foobar
-      name: "Rejoignez-nous sur Discord"
+# extra:
+#   social:
+#     - icon: fontawesome/brands/discord
+#       link: https://discord.gg/foobar
+#       name: "Rejoignez-nous sur Discord"
 
   # If we setup this, add cookie consent
   # analytics:
   #   provider: google
   #   property: G-XXXXXXXXXX
 
-copyright: Copyright &copy; 2023 -  Les gens
+copyright: Copyright &copy; 2023 - BBTR team
 
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/
 markdown_extensions:
