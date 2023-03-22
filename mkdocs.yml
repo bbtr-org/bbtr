@@ -38,6 +38,11 @@ theme:
         icon: material/weather-sunny
         name: Passer au mode clair
 
+
+nav:
+  - Accueil: 'index.md'
+  - Philosophie: 'philosophie.md'
+
 plugins:
   - search
   - social
