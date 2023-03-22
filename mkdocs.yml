@@ -38,10 +38,28 @@ theme:
         icon: material/weather-sunny
         name: Passer au mode clair
 
-
 nav:
   - Accueil: 'index.md'
   - Philosophie: 'philosophie.md'
+  - Préparation:
+    - Introduction: 'preparation/index.md'
+    - Trouver une salle: 'preparation/salle.md'
+    - Former son équipe: 'preparation/equipe.md'
+    - Construire une table de lots: 'preparation/lots.md'
+    - Arbitres: 'preparation/arbitres.md'
+    - Prendre les inscriptions: 'preparation/inscriptions.md'
+    - Extras:
+      - Shop: 'preparation/shop.md'
+      - Artistes: 'preparation/artistes.md'
+      - Stream: 'preparation/stream.md'
+      - Side events: 'preparation/sides.md'
+  - Communication:
+    - Introduction: 'communication/index.md'
+    - Communaute locale: 'communication/communaute.md'
+    - Partenaires: 'communication/partenaires.md'
+    - Réseaux sociaux: 'communication/reseaux.md'
+    - Vie privée et RGPD: 'communication/rgpd.md'
+  - Jour J: 'jourj/index.md'
 
 plugins:
   - search
