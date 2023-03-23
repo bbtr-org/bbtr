@@ -60,6 +60,7 @@ nav:
     - Réseaux sociaux: 'communication/reseaux.md'
     - Vie privée et RGPD: 'communication/rgpd.md'
   - Jour J: 'jourj/index.md'
+  - Outils: 'outils/index.md'
 
 plugins:
   - search
