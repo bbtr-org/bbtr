@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Philosophie
 
 Notre objectif, quand nous organisons un tournoi, est de proposer **la meilleure expérience possible pour les joueurs**. C'est notre ligne directrice, et nous essayons de prendre toutes nos décisions sous cet angle.
@@ -21,10 +26,10 @@ Des tournois peuvent être organisés avec d'autres intentions : une boutique ve
 
 Jusqu'ici nous n'avons parlé que d'améliorer l'expérience des joueurs. Il est essentiel de considérer également les contraintes avec lesquelles opèrent les organisateurs de tournoi. Nous nous devons de ne pas les oublier, a minima pour être capables de construire des projets pérennes. In fine, si nous ne sommes pas capables de continuer à organiser des tournois sur la durée, nous desservons les joueurs.
 
-Les différentes contraintes que nous identifions sont les suivantes :  
-- Contrainte de temps  
-- Contrainte financière  
-- Conserver sa motivation  
+Les différentes contraintes que nous identifions sont les suivantes :
+- Contrainte de temps
+- Contrainte financière
+- Conserver sa motivation
 
 
 ### Contrainte de temps
