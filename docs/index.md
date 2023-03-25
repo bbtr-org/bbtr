@@ -1,4 +1,8 @@
-# Accueil
+---
+hide:
+  - navigation
+  - toc
+---
 <style>
 .md-typeset h1 {
     font-weight: 800;
@@ -33,5 +37,5 @@ Notre objectif est de proposer la meilleure expérience possible aux joueurs. No
 
 ## Ça veut dire quoi "BBTR" ?
 
-"BBTR" signifie "Be Better". Lors d'un tournoi que nous organisions, un ami TO a raté le top huit de très peu. Alors qu'il s'en émouvait, quelqu'un lui a dit "Be Better". _Notre ami n'avait qu'à être meilleur, et il aurait réussi._  
+"BBTR" signifie "Be Better". Lors d'un tournoi que nous organisions, un ami TO a raté le top huit de très peu. Alors qu'il s'en émouvait, quelqu'un lui a dit "Be Better". _Notre ami n'avait qu'à être meilleur, et il aurait réussi._
 Nous avons pris cette leçon à coeur : soyons tous meilleurs :)
