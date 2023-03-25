@@ -22,18 +22,14 @@ theme:
     - toc.follow
   palette:
 
-    # red, pink, purple, deep purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue grey, black, white
-    # Palette toggle for dark mode
-    # Palette toggle for light mode
     - scheme: slate
-      primary: teal
+      primary: blue grey
       toggle:
         icon: material/weather-night
         name: Passer au mode sombre
 
     - scheme: default
-      primary: deep orange
-      # accent: teal
+      primary: blue grey
       toggle:
         icon: material/weather-sunny
         name: Passer au mode clair
