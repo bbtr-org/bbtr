@@ -1,4 +1,14 @@
 # Accueil
+<style>
+.md-typeset h1 {
+    font-weight: 800;
+    font-size: 4em;
+    line-height: 1.5;
+    margin: 0;
+}
+</style>
+# BBTR
+## Organiser des meilleurs tournois Magic: The Gathering
 
 L'objectif de ce site est d'aider les organisateurs de tournois de Magic: The Gathering, pour proposer la meilleure expérience possible aux joueurs. Ce site contient des ressources pour faciliter l'organisation de votre événement, en amont, le jour même et sur la durée.
 
