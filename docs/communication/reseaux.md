@@ -9,3 +9,4 @@ TODO
     - Assume good intent
 - Liste de groupes FB
 - Liste de groupes Discord
+- MTG Agenda
