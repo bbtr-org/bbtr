@@ -103,7 +103,7 @@ Pour une PAF totale de 1000€, nous construisons le budget suivant :
 
 ## Quels lots ?
 
-Maintenant que nous avons construit un budget pour la table de lots, il faut allouer ce budget dans *quelque chose*. Nous vous déconseillons fortement de faire gagner de l'argent à vos participants, cela risque de vous poser beaucoup de problèmes légaux.
+Maintenant que nous avons construit un budget pour la table de lots, il faut allouer ce budget dans *quelque chose*. Faire gagner de l'argent à vos participants semble être une proposition risquée d'un point de vue légal. Nous vous suggérons de demander conseil à un avocat si c'est votre intention.
 
 
 ### Distribuer des boosters
