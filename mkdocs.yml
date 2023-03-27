@@ -25,14 +25,14 @@ theme:
     - scheme: slate
       primary: blue grey
       toggle:
-        icon: material/weather-night
-        name: Passer au mode sombre
+        icon: material/weather-sunny
+        name: Passer au mode clair
 
     - scheme: default
       primary: blue grey
       toggle:
-        icon: material/weather-sunny
-        name: Passer au mode clair
+        icon: material/weather-night
+        name: Passer au mode sombre
 
 nav:
   - Accueil: 'index.md'
