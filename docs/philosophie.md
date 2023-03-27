@@ -36,7 +36,7 @@ Les différentes contraintes que nous identifions sont les suivantes :
 
 Il n'y a que vingt quatre heures dans une journée, et organiser des tournois est souvent une activité secondaire pour nous. Nous ne pouvons pas passer un temps infini à préparer un tournoi. Un des objectifs de ce site est justement d'aider sur ce front, en donnant des solutions clés en main : pour gérer les inscriptions, les paiements etc.
 
-Il est possible de gagner énormément de temps sur la préparation d'un tournoi, notamment grâce aux compétences acquises dans notre expérience, et que nous partageons sur ce site.
+Nous pensons qu'en s'organisant bien et en suivant quelques bonnes pratiques, il est possible d'économiser de nombreuses heures dans l'organisation un tournoi. Notre objectif est de vous partager un maximum de ces conseils d'organisation et de bonnes pratiques pour que vous puissiez organiser d'excellents tournois, même si vous débutez.
 
 
 ### Contrainte financière
