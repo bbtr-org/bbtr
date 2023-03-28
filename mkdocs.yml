@@ -38,7 +38,7 @@ nav:
   - Accueil: 'index.md'
   - Philosophie: 'philosophie.md'
   - Préparation:
-    - Introduction: 'preparation/index.md'
+    - Préparation: 'preparation/index.md'
     - Trouver une salle: 'preparation/salle.md'
     - Former son équipe: 'preparation/equipe.md'
     - Construire une table de lots: 'preparation/lots.md'
@@ -51,7 +51,7 @@ nav:
       - Stream: 'preparation/stream.md'
       - Side events: 'preparation/sides.md'
   - Communication:
-    - Introduction: 'communication/index.md'
+    - Communication: 'communication/index.md'
     - Communauté locale: 'communication/communaute.md'
     - Partenaires: 'communication/partenaires.md'
     - Réseaux sociaux: 'communication/reseaux.md'
