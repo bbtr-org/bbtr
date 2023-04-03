@@ -18,7 +18,7 @@ Le prix des decks est souvent très élevé, notamment à cause de la [Reserved 
 
 ### Modern
 
-Le [Modern](https://magic.wizards.com/en/formats/modern) est le format officiel compétitif le plus joué en ce moment. Les decks sont puissants et rapides, et les parties sont souvent complexes. Le Modern fait partie du circuit officiel Wizards : des LMS, des LEC et des PTs sont joués en Modern. Ce format attire traditionnellement des joueurs compétitifs, qui ont pour ambition de se qualifier aux tournois officiels.  
+Le [Modern](https://magic.wizards.com/en/formats/modern) est le format officiel compétitif le plus joué en ce moment. Les decks sont puissants et rapides, et les parties sont souvent complexes. Le Modern fait partie du circuit officiel Wizards : des LMS, des LEC et des PT sont joués en Modern. Ce format attire traditionnellement des joueurs compétitifs, qui ont pour ambition de se qualifier aux tournois officiels.  
 Le prix des decks et la connaissance requise du format peuvent rebuter les joueurs moins aguerris. Néanmoins, il existe une communauté très vivante en France. Même si votre tournoi ne rentre pas dans le circuit officiel Wizards, les joueurs seront heureux de venir jouer, au moins pour s'entraîner pour les tournois qualificatifs.
 
 

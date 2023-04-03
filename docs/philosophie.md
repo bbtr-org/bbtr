@@ -44,7 +44,7 @@ Nous pensons qu'en s'organisant bien et en suivant quelques bonnes pratiques, il
 
 Nous n'avons pas tous les mêmes objectifs financiers sur un tournoi, mais il est impensable pour qui que ce soit d'organiser des tournois en perdant régulièrement de l'argent. _Nous n'allons pas raser gratis :>_
 
-Un certain nombre de manières d'améliorer un tournoi coûtent de l'argent : distribuer plus de lots, diminuer les PAFs, etc. Il existe aussi beaucoup de moyens de proposer une meilleure expérience aux joueurs, qui n'auront pas un impact négatif sur le bilan financier. Les exposer est un des objectifs de ce site.
+Un certain nombre de manières d'améliorer un tournoi coûtent de l'argent : distribuer plus de lots, diminuer les PAF, etc. Il existe aussi beaucoup de moyens de proposer une meilleure expérience aux joueurs, qui n'auront pas un impact négatif sur le bilan financier. Les exposer est un des objectifs de ce site.
 
 
 ### Conserver sa motivation
