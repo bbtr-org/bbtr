@@ -16,11 +16,12 @@ Avant de choisir une PAF, renseignez-vous sur ce qui se fait autour de vous, che
 
 Vous pouvez aussi consulter le site [MTG Agenda](https://mtg-agenda.fr/) qui regroupe de nombreux tournois en France.
 
-Les prix constatés en mars 2023 sont les suivants :  
-- Evénements peu / pas compétitifs (FNM, Ligue locale) : 1-10€  
-- Événements compétitifs sur la journée (WPNQ, Open CdF DC) : 20-30€  
-- Événements non officiels majeurs (Relic Fest, CdF DC) : 40-60€  
-- Evénements officiels (LMS) : 100€  
+Les prix constatés en mars 2023 sont les suivants :
+
+- Evénements peu / pas compétitifs (FNM, Ligue locale) : 1-10€
+- Événements compétitifs sur la journée (WPNQ, Open CdF DC) : 20-30€
+- Événements non officiels majeurs (Relic Fest, CdF DC) : 40-60€
+- Evénements officiels (LMS) : 100€
 
 Ces prix sont pour des événements en format construit. Pour du Limite, il faut rajouter le prix du produit.
 
@@ -57,9 +58,10 @@ Maintenant que vous avez déterminé un budget, il faut choisir comment distribu
 ### Attentes des joueurs
 
 Dans notre expérience, les joueurs ont plusieurs attentes sur les tournois compétitifs :
-- Les joueurs qui sont dans le top 8 gagnent des lots avec une valeur supérieure à la PAF  
-- Plus les joueurs gagnent, meilleures sont leurs récompenses  
-- Les personnes finissant bas dans le classement reçoivent très peu de lots, voire aucun lot  
+
+- Les joueurs qui sont dans le top 8 gagnent des lots avec une valeur supérieure à la PAF
+- Plus les joueurs gagnent, meilleures sont leurs récompenses
+- Les personnes finissant bas dans le classement reçoivent très peu de lots, voire aucun lot
 
 Nous trouvons ces attentes raisonnables, et les tournois compétitifs se doivent d'y répondre.
 
@@ -68,12 +70,13 @@ Nous trouvons ces attentes raisonnables, et les tournois compétitifs se doivent
 
 La table de lots est l'occasion pour l'organisateur d'afficher ses "valeurs". Par exemple, une association peut trouver important de récompenser tous les participants, car c'est l'esprit qu'elle veut encourager.
 
-Voici quelques questions que nous avons identifiées, auxquelles vous devrez apporter une réponse :  
-- Souhaitez-vous distribuer un lot à tous les joueurs, même ceux au fond du classement ?  
-- Souhaitez-vous distribuer un lot aux joueurs en dehors du top 8 ?  
-- Souhaitez-vous que les joueurs en dehors du top 8 reçoivent des lots en fonction de leur classement final, ou en fonction de leur nombre de points ?  
-- Souhaitez-vous que les lots pour troisième et quatrième d'une part, et cinquième à huitième d'autre part, soient différents ?  
-- Souhaitez-vous que les lots du premier soient significativement plus importants que ceux du huitième ?  
+Voici quelques questions que nous avons identifiées, auxquelles vous devrez apporter une réponse :
+
+- Souhaitez-vous distribuer un lot à tous les joueurs, même ceux au fond du classement ?
+- Souhaitez-vous distribuer un lot aux joueurs en dehors du top 8 ?
+- Souhaitez-vous que les joueurs en dehors du top 8 reçoivent des lots en fonction de leur classement final, ou en fonction de leur nombre de points ?
+- Souhaitez-vous que les lots pour troisième et quatrième d'une part, et cinquième à huitième d'autre part, soient différents ?
+- Souhaitez-vous que les lots du premier soient significativement plus importants que ceux du huitième ?
 
 Les réponses à ces questions doivent venir de votre équipe d'organisateurs. N'hésitez pas à demander l'avis de votre communauté de joueurs locaux pour vous aider à y répondre !
 
@@ -126,11 +129,12 @@ Cardmarket a mis fin à la vente de bons d'achat sur leur site depuis [mars 2023
 
 Vous pouvez distribuer des cartes Magic comme lots. C'est un bon moyen de marquer les esprits en amont : "Venez gagner un Bayou à notre tournoi !" et en aval : "Je contre ton sort avec cette magnifique Force of Will que j'ai gagnée le mois dernier".
 
-Il est essentiel que les joueurs soient contents de recevoir leurs lots, soit parce qu'ils joueront les cartes, soit parce qu'ils pourront les échanger facilement. Voici quelques lignes directrices que nous vous conseillons de suivre :  
-- Les cartes doivent être légales dans le format du tournoi  
-- Les cartes sont effectivement jouées, et rentrent dans plusieurs decks  
-- Les cartes sont recherchées par les joueurs  
-- Evitez les versions particulièrement chères de cartes, si d'autres versions bien moins chères existent  
+Il est essentiel que les joueurs soient contents de recevoir leurs lots, soit parce qu'ils joueront les cartes, soit parce qu'ils pourront les échanger facilement. Voici quelques lignes directrices que nous vous conseillons de suivre :
+
+- Les cartes doivent être légales dans le format du tournoi
+- Les cartes sont effectivement jouées, et rentrent dans plusieurs decks
+- Les cartes sont recherchées par les joueurs
+- Evitez les versions particulièrement chères de cartes, si d'autres versions bien moins chères existent
 
 Bien sûr vous pouvez ne pas respecter ces conseils. Par exemple, il peut être pertinent de faire gagner un biland à un tournoi Modern, parce que le joueur pourra facilement l’échanger. De la meme manière faire gagner un [fetchland Expeditions](https://www.cardmarket.com/en/Magic/Products/Singles/Zendikar-Expeditions/Scalding-Tarn) peut faire plaisir aux joueurs, ils pourront "pimper" leur deck.  
 Nous vous conseillons de ne pas aller à l'encontre de *tous* ces conseils à la fois.
@@ -148,8 +152,9 @@ Vous pouvez aussi distribuer des bons d'achat chez ce magasin partenaire. Faites
 ### Extras
 
 En plus des lots monétaires, vous pouvez distribuer des byes, ou des qualifications à un événement ultérieur. Typiquement, les WPNQ organisés par les boutiques WPN qualifient une ou deux personnes au prochain LEC organisé par Legacy.  
-Des organisateurs en dehors du circuit officiel permettent eux aussi de distribuer des byes ou des qualifications :  
-- Relic a permis à des tournois de distribuer des byes pour son [Relic Fest #2](https://mtgprime.fr/championnat-national-duel-commander-2023/)  
+Des organisateurs en dehors du circuit officiel permettent eux aussi de distribuer des byes ou des qualifications :
+
+- Relic a permis à des tournois de distribuer des byes pour son [Relic Fest #2](https://www.facebook.com/events/705008923929286)
 - Il est possible d'organiser des tournois qualificatifs pour le [Championnat National Duel Commander](https://mtgprime.fr/championnat-national-duel-commander-2023/)
 
 Ces lots sont souvent gratuits pour vous, car ils sont donnant donnant : cela vous permet de donner plus de récompense à vos participants, dans l'espoir de faire bouger plus de personnes, et l'événement partenaire se fait de la publicité gratuitement.
@@ -161,5 +166,5 @@ Finalement, vous pouvez aussi prévoir un trophée physique pour le gagnant, c'e
 
 Voici des liens vers des tableurs contenant des exemples de grilles de lots. Les liens vous permettent d'accéder aux tableurs en lecture seule, vous pouvez en faire une copie et la modifier à loisir.
 
-- Grille de lots utilisée par Damoclès dans le cadre de ces tournois associatifs : [Lien](https://docs.google.com/spreadsheets/d/1zf-_C9x4ZQg_uJ1eShxEQJbKjD5gdr3gkCBnTCZM93s/edit?usp=sharing)  
+- Grille de lots utilisée par Damoclès dans le cadre de ces tournois associatifs : [Lien](https://docs.google.com/spreadsheets/d/1zf-_C9x4ZQg_uJ1eShxEQJbKjD5gdr3gkCBnTCZM93s/edit?usp=sharing)
 - Grille de lots pour les Championnats Régionaux du Championnat National Duel Commander 2023 : [Lien](https://docs.google.com/spreadsheets/d/1suF5XymN6nueBmJ2_PwzL1lEJJE7b-j3JCV89-fxf7Q/edit?usp=sharing)
