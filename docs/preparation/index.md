@@ -5,14 +5,14 @@ Avant de commencer a preparer votre tournoi, vous devez definir vos objectifs, e
 
 ## Choisir un format
 
-Il existe de nombreux formats pour jouer a Magic, et vous allez devoir en choisir un a proposer a vos joueurs. Parfois le choix est trivial, parce que vous organisez une Avant Premiere, ou parce que vous organisez un tournoi qualificatif et le format est impose. Mais souvent, vous devrez faire ce choix.
+Il existe de nombreux formats pour jouer a Magic, et vous allez devoir choisir celui ou ceux que vous proposez a vos joueurs. Parfois le choix est trivial, parce que vous organisez une Avant Premiere, ou parce que vous organisez un tournoi qualificatif et le format est impose. Mais souvent, vous devrez faire ce choix.
 
 Plusieurs motivations peuvent aiguiller votre choix de format (ou de formats !). Vous pouvez vouloir contenter votre communaute locale, qui est tres motivee pour jouer dans un format particulier, ou bien essayer d'attirer un maximum de joueurs aux alentours. Nous allons passer en revue les formats les plus courants, pour vous aider a prendre une decision.
 
 
 ### Duel Commander
 
-Le [Duel Commander](https://www.mtgdc.info/) est un format communautaire. En 2023 c'est le format de Magic qui attire le plus de joueurs en France, entre le Championnat National Duel Commander, et le Relic Fest #2 qui a attire plus de 300 joueurs en Novembre 2022.  
+Le [Duel Commander](https://www.mtgdc.info/) est un format communautaire. En 2023 c'est le format de Magic qui attire le plus de joueurs en France, entre le [Championnat National Duel Commander](https://mtgprime.fr/championnat-national-duel-commander-2023/), et le [Relic Fest #2](https://www.facebook.com/events/705008923929286) qui a attire plus de 300 joueurs en Novembre 2022.  
 Le prix des decks est souvent tres eleve, notamment a cause de la [Reserved List](https://mtg.fandom.com/wiki/Reserved_List), mais la communaute est tres accueillante. Les personnes se pretent beaucoup les cartes entre elles. C'est un format populaire, parce qu'il attire un grand nombre de personnes, mais aussi parce qu'il attire des joueurs moins aguerris.
 
 
