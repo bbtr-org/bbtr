@@ -8,6 +8,8 @@ TODO
     - Poster sur JA (?)
 
 - Materiel necessaire
+    - Timer
+    - Video projecteur
 - Place necessaire
 - Nombre d'arbitres
 - Compensation
