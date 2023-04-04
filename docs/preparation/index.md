@@ -39,9 +39,9 @@ Le [Pauper](https://magic.wizards.com/en/formats/pauper) est un format historiqu
 Bien que le format soit peu actif en France, le coût d'entrée est faible, et des pays européens organisent de beaux tournois dans le format. Le [Paupergeddon](https://mtg.cardsrealm.com/en-us/articles/paupergeddon-tournament-top-8-decklist-614-players) en Italie a regroupe plus de **600** joueurs de Pauper sur leur événement.
 
 
-### Limite
+### Limité
 
-Le limite est pour certains la forme la plus pure de Magic. Les joueurs ouvrent des boosters, en scellé ou en draft, et construisent le meilleur deck possible. Les avant-premières, organisées pour fêter la sortie d'une nouvelle extension, sont des événements qui rassemblent les joueurs, et qui sont souvent très accueillants.  
+Le limité est pour certains la forme la plus pure de Magic. Les joueurs ouvrent des boosters, en scellé ou en draft, et construisent le meilleur deck possible. Les avant-premières, organisées pour fêter la sortie d'une nouvelle extension, sont des événements qui rassemblent les joueurs, et qui sont souvent très accueillants.  
 De nombreuses associations organisent des avant-premières, c'est l'occasion de faire vivre la communauté locale. La PAF est entre 25 et 30 euros, correspondant au prix du pack d'AP (6 boosters + une carte promo foil) et des boosters de lots. Ces événements ne sont pas compétitifs, c'est souvent l'occasion d'attirer un public différent.
 
 Il est possible d'organiser des tournois compétitifs en limité. Les rondes suisses sont jouées en scellé, et le top 8 est un draft en élimination directe. Le ticket d'entrée est plus élevé que pour un tournoi en construit, puisque les joueurs payent pour les six boosters avec lesquels ils vont construire leur deck. Pensez également à compter les boosters du draft en top 8 dans votre budget :)  
@@ -75,7 +75,7 @@ Nous vous conseillons de ne pas viser trop grand trop vite :) Une réputation se
 
 ### Nombre de joueurs
 
-A partir de la portée visée, vous allez déterminer un nombre de joueurs espéré. Un événement local qui attire une vingtaine de joueurs peut être un succès. Si vous espérez attirer des joueurs de toute la France, c'est probablement un échec. Discutez avec votre équipe de ce que vous visez en terme de nombre de joueurs.
+À partir de la portée visée, vous allez déterminer un nombre de joueurs espéré. Un événement local qui attire une vingtaine de joueurs peut être un succès. Si vous espérez attirer des joueurs de toute la France, c'est probablement un échec. Discutez avec votre équipe de ce que vous visez en terme de nombre de joueurs.
 
 De manière très pratique, votre salle a une capacité maximale, que vous ne voulez pas dépasser. Et en fonction de vos frais fixes, vous avez aussi un nombre minimal de joueurs à atteindre.  
 Essayez de déterminer ces nombres rapidement, pour avoir une meilleure visibilité sur votre événement.
@@ -86,7 +86,7 @@ Essayez de déterminer ces nombres rapidement, pour avoir une meilleure visibili
 Est-ce que votre événement est sur une seule journée ? Ou dure-t-il tout le week-end ? Ou commence-t-il dès le vendredi ?
 
 Un événement qui dure plusieurs joueurs est plus attirant pour des joueurs habitant loin : ils rentabilisent le trajet en jouant plus à Magic. De la même manière, si vous faites déplacer des arbitres depuis l'autre côté de la France, ils préféreront arbitrer plusieurs jours.  
-Vous pouvez faire un tournoi qui s'étalent sur plusieurs jours, ou plusieurs tournois, un par jour. Essayez de faire en sorte que les joueurs puissent prendre un train le dernier soir, et donc éviter une fin trop tardive le dernier jour.
+Vous pouvez faire un tournoi qui s'étale sur plusieurs jours, ou plusieurs tournois, un par jour. Essayez de faire en sorte que les joueurs puissent prendre un train le dernier soir, et donc éviter une fin trop tardive le dernier jour.
 
 
 ## Trouver une date
