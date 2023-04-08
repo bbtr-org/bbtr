@@ -57,7 +57,7 @@ Votre salle dispose peut-être d'un espace dédié, ou un bar, depuis lequel vou
 
 Pour le repas, vous pouvez proposer des sandwichs, des hot dogs, des croque-monsieurs, etc. Si la salle comporte des cuisines, vous pouvez aussi faire fonctionner votre imagination, et vendre des frites, des crêpes, des repas plus élaborés, etc.
 
-En plus des habituelles sucreries et sodas, vous pouvez proposer à vos joueurs des produits locaux, ou de saison, ou encore des gâteaux préparés par vos soins. Par exemple, le pain d'épices est simple à faire soi-même, et sera très adapté autour des fêtes de fin d'année.
+En plus des habituels sodas et sucreries, vous pouvez proposer à vos joueurs des produits locaux, ou de saison, ou encore des gâteaux préparés par vos soins. Par exemple, le pain d'épices est simple à faire soi-même, et sera très adapté autour des fêtes de fin d'année.
 
 
 #### Espace repas
@@ -68,6 +68,12 @@ En plus d'un espace pour la préparation et la vente de nourriture, nous vous co
 #### Food truck, traiteur
 
 Si vous ne voulez pas vous occuper du repas, vous pouvez solliciter un food-truck, ou un traiteur local. Cela permet de vous décharger de cette tâche, qui est chronophage et demande de la logistique et de la préparation. Notez que c'est aussi une activité traditionnellement très rentable, surtout quand on dépasse la centaine de participants.
+
+Pour les food trucks, vous pouvez essayer de négocier des tarifs, au moins pour le staff de votre événement. Vous pouvez également leur demander de ne pas vendre de desserts ou de boissons, parce que vous en vendez vous mêmes.  
+Vous aurez probablement à contacter la mairie, pour demander une autorisation de vente, ou un accès à une zone spécifique pour que le camion s'installe. En général cela s'accompagne d'un montant à verser au trésor public. Vous pouvez demander au food truck qu'il vous paye cette somme, ou qu'il vous fournisse des repas gratuits correspondant au montant.  
+Le food truck aura besoin d’un accès à l'électricité, avec un ampérage minimum qui vous sera communiqué. Prévoyez pour le camion un espace accessible pour les joueurs, et à portée d’une prise de courant.
+
+D'expérience, les foodtrucks peuvent être réticents à venir à un tournoi de cartes. Ils imaginent que vous organisez un tournoi de belote qui va faire venir une trentaine de retraités. Nous vous conseillons de bien leur expliquer que votre tournoi attire un public plus jeune, qui est souvent plus friand de food truck que les joueurs de belote. Insistez également sur votre nombre d'inscrits, cela leur permettra de dimensionner leurs stocks en conséquence, et leur fera comprendre que leur venue sera rentable pour eux.
 
 
 ## Agencer sa salle
@@ -99,4 +105,4 @@ Si vous avez des extras, pensez à leur prévoir de la place, en vrac :
 - Un espace pour les artistes et altérateurs
 - Un lieu pour les events à la demande, pour s'inscrire et pour jouer
 
-A chaque fois, prévoyez de l'espace, mais aussi des tables et des chaises en nombres suffisants. Réfléchissez également au placement de ces extras : un vendeur ou un artiste préférera ne pas être relégué à un coin de la salle, moins visible et avec peu de passage.
+À chaque fois, prévoyez de l'espace, mais aussi des tables et des chaises en nombres suffisants. Réfléchissez également au placement de ces extras : un vendeur ou un artiste préférera ne pas être relégué à un coin de la salle, moins visible et avec peu de passage.
