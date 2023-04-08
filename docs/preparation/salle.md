@@ -106,3 +106,21 @@ Si vous avez des extras, pensez à leur prévoir de la place, en vrac :
 - Un lieu pour les events à la demande, pour s'inscrire et pour jouer
 
 À chaque fois, prévoyez de l'espace, mais aussi des tables et des chaises en nombres suffisants. Réfléchissez également au placement de ces extras : un vendeur ou un artiste préférera ne pas être relégué à un coin de la salle, moins visible et avec peu de passage.
+
+
+## Exemples
+
+Voici quelques exemples de tournois passés, qui peuvent vous donner une idée pour dimensionner votre événement.
+
+### [Trophée de Diane 2023](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/331283455_534353898538710_5805764784433902271_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=i-RGJQyzZUMAX-78XaM&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCV4mRX7oG75MjKCJDYGLoCiSwxtuRb6vTIvuYRtTalQA&oe=64364708)
+
+Tournoi rassemblant environ 100 joueurs, un shop, une feature table avec captation et un bar servant boissons et sucreries. Le tout dans une salle de 250m², tout le monde était confortablement installé.
+
+### [Les 3 Tours #1](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/318016483_5807186156012921_2677802870034564037_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=JqsVXhmQqdQAX-0WYgq&_nc_ht=scontent-cdg4-1.xx&oh=00_AfD1V4LQ-4NuHIwMAkBEDuAn_bouyBpbr-GDDVVB7Wo-5Q&oe=6435EE5B)
+
+Tournoi de 64 joueurs, avec un shop, une feature table et une zone pour le cast en direct, et un bar servant repas, boissons et sucreries. Ce tournoi a été organisé dans une salle de 140m².
+
+### [Relic Fest #2](https://www.facebook.com/events/705008923929286)
+
+Le Relic Fest #2 a été le tournoi rassemblant le plus de joueurs de Duel Commander dans le monde (pour l'instant !). L'événement a fait carton plein, en accueillant 600 joueurs (Modern + DC). Relic avait un stand, il y avait également de la restauration, plusieurs feature tables, une zone pour le cast en direct, ainsi que plusieurs artistes dans la salle.  
+L'événement a eu lieu dans l'espace [Agora](https://diagora-congres.com/decouvrez-le-centre-de-congres-diagora/decouvrez-nos-espaces/espace-agora/)
