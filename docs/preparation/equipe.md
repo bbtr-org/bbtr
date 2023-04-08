@@ -1,5 +1,9 @@
 # Former son équipe
 
+!!! note "En construction"
+
+    Ce site est en construction, cette page n'est pour l'instant qu'un brouillon :)
+
 TODO
 
 - Important de ne pas tout faire tout seul
