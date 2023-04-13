@@ -124,6 +124,9 @@ Néanmoins, les boosters peuvent vous aider à "compléter" un budget, soit à d
 
 Cardmarket a mis fin à la vente de bons d'achat sur leur site depuis [mars 2023](https://www.cardmarket.com/en/Magic/News/Users-Can-No-Longer-Purchase-Cardmarket-Coupons).
 
+Vous pouvez néanmoins contacter Cardmarket via leur [formulaire de contact](https://www.cardmarket.com/en/Helpdesk/Contact/Submit?idCategory=52), pour demander à pouvoir acheter des bons d'achat. Cardmarket vous demandera de fournir des pièces légales pour attester du fait que vous représentez bien une association (statuts, PV d'assemblée générale, etc.) ou une entreprise (extrait Kbis).  
+Une fois votre demande acceptée, vous pourrez demander l'édition manuelle de bons d'achat. Ce n'est pas aussi pratique que l'interface web qui existait de par le passé, mais c'est déjà quelque chose.
+
 
 ### Cartes à l'unité
 
