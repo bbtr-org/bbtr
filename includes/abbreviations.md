@@ -11,3 +11,4 @@
 *[PAF]: Participation Aux Frais (Prix d'entrée)
 *[PMR]: Personne à Mobilité Réduite
 *[GP]: Grand Prix
+*[MTR]: Magic Tournament Rules
