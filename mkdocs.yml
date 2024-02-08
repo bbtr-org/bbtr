@@ -48,7 +48,7 @@ nav:
     - Extras:
       - Goodies: 'preparation/goodies.md'
       - Shop: 'preparation/shop.md'
-      - Artistes: 'preparation/artistes.md'
+      # - Artistes: 'preparation/artistes.md'
       - Stream: 'preparation/stream.md'
   - Communication:
     - Communication: 'communication/index.md'
