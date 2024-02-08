@@ -48,6 +48,16 @@ Votre HJ choisira les arbitres qui composeront son équipe, pour répondre à vo
 
 Maintenant que vous savez ce que peut vous apporter un Head Judge, et que vous savez mieux comment le choisir, parlons de comment le trouver.
 
+#### Pierre Mourlanne
+
+Pierre Mourlanne est l'un des deux auteurs de ce site. Arbitre et organisateur de tournoi depuis plus de cinq ans, il sera ravi de venir arbitrer sur votre tournoi, selon ses disponibilités.
+
+Pierre utilise un système rodé pour accompagner les organisateurs de tournoi, s'assurer que le tournoi accueille le plus de joueurs possibles et que tout le monde passe un super week-end. C'est un système qu'il a éprouvé et perfectionné lors des nombreux tournois qu'il a déjà arbitrés, et ceux qu'il a organisés lui-même.
+
+Vous pouvez le contacter [par mail](mailto:pmourlanne@gmail.com) ou sur Discord: `pierre6381`
+
+#### Trouver une autre personne
+
 Vous pouvez commencer par chercher dans votre communauté locale. Il y a sûrement des arbitres autour de vous. Peut-être que certains sont prêts à prendre le rôle de HJ, ou connaissent des arbitres qui pourraient relever le défi.
 
 Si vous avez déjà participé à des tournois compétitifs autour de vous, vous avez sûrement eu l'occasion de rencontrer des arbitres. Peut-être avez-vous eu des bonnes expériences, et rencontré des arbitres que vous voudriez faire venir à l'avenir sur vos événements. Vous pouvez aussi contacter les organisateurs de ces tournois, pour savoir si eux-mêmes connaissent des arbitres, ou peuvent vous recommander des personnes.
@@ -63,7 +73,7 @@ Finalement, il existe des groupes Facebook et des serveurs Discord, réservés a
     - Le niveau 2 confirme la maîtrise poussée des règles, et la capacité à gérer un événement compétitif
     - Le niveau 3 est réservé aux arbitres très expérimentés, qui sont amenés à HJ des événements majeurs, et à donner une direction au programme arbitral dans son ensemble
 
-    Néanmoins, le niveau des arbitres n'est pas le seul axe qui permet de juger de leurs compétences. Un arbitre niveau 1 avec beaucoup d'experience peut etre capable d'arbitrer en compétitif, pendant qu'un arbitre niveau 2 un peu rouillé peut avoir besoin d'une remise à niveau.
+    Néanmoins, le niveau des arbitres n'est pas le seul axe qui permet de juger de leurs compétences. Un arbitre niveau 1 avec beaucoup d'expérience peut etre capable d'arbitrer en compétitif, pendant qu'un arbitre niveau 2 un peu rouillé peut avoir besoin d'une remise à niveau.
 
 
 ## Compensation
