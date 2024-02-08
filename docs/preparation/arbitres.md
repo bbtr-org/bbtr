@@ -35,9 +35,9 @@ Votre HJ saura vous dire de combien d'arbitres vous aurez besoin pour votre év�
 | Nb. de joueurs | Nb. d'arbitres |
 | - | - |
 | 1-40 | 1 |
-| 40-79 | 2 |
-| 80-99 | 3 |
-| 100-128 | 4 |
+| 40-64 | 2 |
+| 65-89 | 3 |
+| 90-128 | 4 |
 
 Encore une fois, c'est votre HJ qui vous guidera sur ce point. Peut être que votre événement a besoin de plus ou moins d'arbitres, pour des raisons propres à votre tournoi.
 

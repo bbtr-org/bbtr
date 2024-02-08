@@ -50,7 +50,6 @@ nav:
       - Shop: 'preparation/shop.md'
       - Artistes: 'preparation/artistes.md'
       - Stream: 'preparation/stream.md'
-      - Side events: 'preparation/sides.md'
   - Communication:
     - Communication: 'communication/index.md'
     - Communauté locale: 'communication/communaute.md'
