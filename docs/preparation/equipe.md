@@ -44,7 +44,7 @@ A travers leurs expériences, professionnelles ou non, certaines personnes ont a
 ## Le jour même
 
 Le jour même vous aurez besoin de personnes pour mettre en place la salle, gérer la buvette, guider les joueurs, etc. En somme, exécuter le plan que vous avez préparé en amont.  
-Les personnes du comité de pilotage, ou d'autres personnes membres de l'association, peuvent aider le jour même. Pour de nombreux postes, vous avez surtout de bras et de jambes :)
+Les personnes du comité de pilotage, ou d'autres personnes membres de l'association, peuvent aider le jour même. Pour de nombreux postes, vous avez surtout besoin de bras et de jambes :)
 
 ## Comment remercier les bénévoles
 
